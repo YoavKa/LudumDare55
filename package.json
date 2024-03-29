@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.4.3"
+  },
+  "scripts": {
+    "start": "lite-server",
+    "compile": "tsc"
+  }
+}
