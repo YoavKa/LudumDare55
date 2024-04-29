@@ -5,6 +5,7 @@
   },
   "scripts": {
     "start": "lite-server",
-    "compile": "tsc"
+    "compile": "tsc",
+    "please": "npm run compile & npm run start"
   }
 }
