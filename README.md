@@ -1,3 +1,5 @@
+![The game's instructions](instructions.png)
+
 # Summon & Summoff
 
 This repo contains our submission for the Ludum Dare 55 Competition.
